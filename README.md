@@ -2,6 +2,10 @@
 
 This dynamic Power BI dashboard delivers comprehensive inventory analysis and management capabilities for warehouse operations. The solution leverages ABC-XYZ classification methodologies to optimize inventory control, identify high-value items, monitor demand patterns, and provide data-driven reordering recommendations. The dashboard serves as a strategic tool for inventory managers to minimize costs while maintaining appropriate stock levels across all product categories.
 
+Each visualization is interactive, allowing users to filter by various dimensions including product category, ABC-XYZ classification, and stock status.
+![Dashboard](Dashboard.png)
+![Data Model](Data%20Model.png)
+
 ---
 
 ## 📂 About the Data
@@ -241,9 +245,7 @@ The dashboard consists of the following key components:
    - Sales Amount trend with 10-day forecast
    - Weekly Demand trend with 10-day forecast
 
-Each visualization is interactive, allowing users to filter by various dimensions including product category, ABC-XYZ classification, and stock status.
-![Dashboard](Dashboard.png)
-![Data Model](Data%20Model.png)
+
 
 ---
 
